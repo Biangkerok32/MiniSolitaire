@@ -52,8 +52,8 @@ a:hover {
 
 .card {
 	-webkit-perspective: 600;
-	width: 90px;
-	height: 110px;
+	width: 100px;
+	height: 120px;
 	
 	/* changed	*/
 	position: absolute;
@@ -65,8 +65,8 @@ a:hover {
 
 .face {
 	border-radius: 10px;
-	width: 100%;
-	height: 100%;
+	width: 100px;
+	height: 120px;
 	position: absolute;
 	
 	-moz-transition-property: opacity, -moz-transform, -moz-box-shadow;
