@@ -31,8 +31,8 @@ a:hover {
 	
 	position: relative;
 	background: #232 url(../images/table.jpg);
-	width: 380px;
-	height: 400px;
+	width: 100%;
+	height: 100%;
 	margin: 0 auto;
 	
 	display: -webkit-box;
@@ -46,8 +46,8 @@ a:hover {
 
 #cards {
 	position: relative;	
-	width: 380px;
-	height: 400px;
+	width: 100%;
+	height: 100%;
 }
 
 .card {
